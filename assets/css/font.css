@@ -1,0 +1,181 @@
+/* svn-gilroy_black */
+@font-face {
+    font-family: 'SVN-Gilroy';
+    src: url('./assets/fonts/svn-gilroy/svn-gilroy_black.woff2') format('woff2'),
+         url('./assets/fonts/svn-gilroy/svn-gilroy_black.ttf') format('truetype');
+         font-weight: normal;
+         font-style: normal;
+         font-display: swap;
+  }
+
+/* svn-gilroy_black_italic */ 
+@font-face {
+font-family: 'SVN-Gilroy';
+src: url('./assets/fonts/svn-gilroy/svn-gilroy_black_italic.woff2') format('woff2'),
+        url('./assets/fonts/svn-gilroy/svn-gilroy_black_italic.ttf') format('truetype');
+        font-weight: 500;
+        font-style: normal;
+        font-display: swap;
+}
+
+/* svn-gilroy bold */
+@font-face {
+    font-family: 'SVN-Gilroy';
+    src: url('./assets/fonts/svn-gilroy/svn-gilroy_bold.woff2') format('woff2'),
+         url('./assets/fonts/svn-gilroy/svn-gilroy_bold.ttf') format('truetype');
+         font-weight: bold;
+         font-style: normal;
+         font-display: swap;
+}
+
+/* svn-gilroy bold italic */
+@font-face {
+    font-family: 'SVN-Gilroy';
+    src: url('./assets/fonts/svn-gilroy/svn-gilroy_bold_italic.woff2') format('woff2'),
+         url('./assets/fonts/svn-gilroy/svn-gilroy_bold_italic.ttf') format('truetype');
+         font-weight: bold;
+         font-style: italic;
+         font-display: swap;
+  }
+  
+/*   svn-gilroy_heavy */
+@font-face {
+    font-family: 'SVN-Gilroy';
+    src: url('./assets/fonts/svn-gilroy/svn-gilroy_heavy.woff2') format('woff2'),
+         url('./assets/fonts/svn-gilroy/svn-gilroy_heavy.ttf') format('truetype');
+         font-weight: 800;
+         font-style: normal;
+         font-display: swap;
+}
+  
+  /* svn-gilroy_italic */
+  @font-face {
+    font-family: 'SVN-Gilroy';
+    src: url('./assets/fonts/svn-gilroy/svn-gilroy_italic.woff2') format('woff2'),
+         url('./assets/fonts/svn-gilroy/svn-gilroy_italic.ttf') format('truetype');
+         font-weight: normal;
+         font-style: italic;
+         font-display: swap;
+  }
+  
+  /* svn-gilroy_light_italic */
+  @font-face {
+    font-family: 'SVN-Gilroy';
+    src: url('./assets/fonts/svn-gilroy/svn-gilroy_light_italic.woff2') format('woff2'),
+         url('./assets/fonts/svn-gilroy/svn-gilroy_light_italic.ttf') format('truetype');
+         font-weight: normal;
+         font-style: italic;
+         font-display: swap;
+  }
+  
+  /* svn-gilroy_light */
+  @font-face {
+    font-family: 'SVN-Gilroy';
+    src: url('./assets/fonts/svn-gilroy/svn-gilroy_light.woff2') format('woff2'),
+         url('./assets/fonts/svn-gilroy/svn-gilroy_light.ttf') format('truetype');
+         font-weight: normal;
+         font-style: italic;
+         font-display: swap;
+  }
+  
+  /* svn-gilroy_medium_italic */
+  @font-face {
+    font-family: 'SVN-Gilroy';
+    src: url('./assets/fonts/svn-gilroy/svn-gilroy_medium_italic.woff2') format('woff2'),
+         url('./assets/fonts/svn-gilroy/svn-gilroy_medium_italic.ttf') format('truetype');
+         font-weight: normal;
+         font-style: italic;
+         font-display: swap;
+  }
+  
+  /* svn-gilroy_medium */
+  @font-face {
+    font-family: 'SVN-Gilroy';
+    src: url('./assets/fonts/svn-gilroy/svn-gilroy_medium.woff2') format('woff2'),
+         url('./assets/fonts/svn-gilroy/svn-gilroy_medium.ttf') format('truetype');
+         font-weight: normal;
+         font-style: normal;
+         font-display: swap;
+  }
+  
+  /* svn-gilroy_regular */
+  @font-face {
+    font-family: 'SVN-Gilroy';
+    src: url('./assets/fonts/svn-gilroy/svn-gilroy_regular.woff2') format('woff2'),
+         url('./assets/fonts/svn-gilroy/svn-gilroy_regular.ttf') format('truetype');
+         font-weight: normal;
+         font-style: normal;
+         font-display: swap;
+  }
+  
+  /* svn-gilroy_semibold_italic */
+  @font-face {
+    font-family: 'SVN-Gilroy';
+    src: url('./assets/fonts/svn-gilroy/svn-gilroy_semibold_italic.woff2') format('woff2'),
+         url('./assets/fonts/svn-gilroy/svn-gilroy_semibold_italic.ttf') format('truetype');
+         font-weight: 700;
+         font-style: italic;
+         font-display: swap;
+  }
+  
+ /*  svn-gilroy_semibold */
+ @font-face {
+    font-family: 'SVN-Gilroy';
+    src: url('./assets/fonts/svn-gilroy/svn-gilroy_semibold.woff2') format('woff2'),
+         url('./assets/fonts/svn-gilroy/svn-gilroy_semibold.ttf') format('truetype');
+         font-weight: 700;
+         font-style: normal;
+         font-display: swap;
+  }
+  
+  /* svn-gilroy_thin_italic */
+  @font-face {
+    font-family: 'SVN-Gilroy';
+    src: url('./assets/fonts/svn-gilroy/svn-gilroy_thin_italic.woff2') format('woff2'),
+         url('./assets/fonts/svn-gilroy/svn-gilroy_thin_italic.ttf') format('truetype');
+         font-weight: 300;
+         font-style: italic;
+         font-display: swap;
+  }
+  
+  /* svn-gilroy_thin */
+  @font-face {
+    font-family: 'SVN-Gilroy';
+    src: url('./assets/fonts/svn-gilroy/svn-gilroy_thin.woff2') format('woff2'),
+         url('./assets/fonts/svn-gilroy/svn-gilroy_thin.ttf') format('truetype');
+         font-weight: 300;
+         font-style: normal;
+         font-display: swap;
+  }
+  
+  /* svn-gilroy_xbold_italic */
+  @font-face {
+    font-family: 'SVN-Gilroy';
+    src: url('./assets/fonts/svn-gilroy/svn-gilroy_xbold_italic.woff2') format('woff2'),
+         url('./assets/fonts/svn-gilroy/svn-gilroy_xbold_italic.ttf') format('truetype');
+         font-weight: 800;
+         font-style: italic;
+         font-display: swap;
+  }
+  
+  /* svn-gilroy_xlight_italic */
+  @font-face {
+    font-family: 'SVN-Gilroy';
+    src: url('./assets/fonts/svn-gilroy/svn-gilroy_xlight_italic.woff2') format('woff2'),
+         url('./assets/fonts/svn-gilroy/svn-gilroy_xlight_italic.ttf') format('truetype');
+         font-weight: 800;
+         font-style: italic;
+         font-display: swap;
+  }
+  
+ /*  svn-gilroy_xlight */
+ @font-face {
+    font-family: 'SVN-Gilroy';
+    src: url('./assets/fonts/svn-gilroy/svn-gilroy_xlight.woff2') format('woff2'),
+         url('./assets/fonts/svn-gilroy/svn-gilroy_xlight.ttf') format('truetype');
+         font-weight: normal;
+         font-style: normal;
+         font-display: swap;
+  }
+  
+  
